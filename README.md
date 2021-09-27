@@ -1,2 +1,6 @@
-# QA
-Test
+Ema Xibri ,
+Please find the way I worked with the task given to me for QA Plugins. 
+Since I have to work with java ,I choose Eclipse because it is specialized in Java development and I installed with Selenium libraries in my PC. I downloaded and installed Chrome driver because I use Chrome as default browser.  Eclipse  offers support, features, and its free to download and it is compatible with different OS. Eclipse offers code completing that makes easier to write test cases and to suggest different options that we can use. Also help us with syntax correct which is very important to locate where the exception is. For Eclipse I can find different forums online which help a lot to search for solution when something isn’t working properly. It has simple layout, user-friendly. It has integration with  GIT and features extensions by plugins. We can manage multiple suites and test cases in the same time. To write my test cases I used Amazon website to automate those test cases. I have been working before with Ghost Inspector and that was the first time for me to get to know with Eclipse and Selenium. The way how I worked with those test cases is getting elements by their Id, xpath or cssSelector. First I made log in test cases, to add a product to cart and to proceed to checkout. Indeed I faced difficulties with adding values to credit cart tab. I tried a lot to insert values with xpath, className, id but it doesn’t work for me. I was able to see error when I clicked Add to Cart without inserting values in Cart Number and Cart Name but it was not mentioned in task so I didn’t mention this way. I tried to include only test cases mentioned in task.
+Thank you in advance for your time and your consideration.
+
+
